@@ -1,0 +1,10 @@
+# Ignore SSL certificate and key folders
+cert/
+key/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Optional: ignore logs and environment files
+*.log
+.env
